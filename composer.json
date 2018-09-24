@@ -8,6 +8,10 @@
         {
             "name": "ONGR team",
             "homepage": "http://www.ongr.io"
+        },
+        {
+            "name": "Danil Vereschak",
+            "email": "danil.vereschak@gmail.com"
         }
     ],
     "require": {

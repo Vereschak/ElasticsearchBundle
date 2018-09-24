@@ -24,7 +24,7 @@ final class Embedded
     /**
      * Inner object class name.
      *
-     * @var string Object name to map
+     * @var string ObjectType name to map
      *
      * @Doctrine\Common\Annotations\Annotation\Required
      */
